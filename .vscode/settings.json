@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "compare": "cpp",
+        "cstdint": "cpp",
+        "format": "cpp",
+        "arch.h": "c",
+        "ranges": "c",
+        "cstdlib": "c",
+        "predef.h": "c",
+        "x86_64.h": "c",
+        "x86_32.h": "c",
+        "stdint.h": "c",
+        "common.h": "c"
+    }
+}
